@@ -1,0 +1,11 @@
+cc_prebuilt_binary {
+    name: "dbclient",
+    srcs: ["dbclient"],
+    symlinks: [
+    "system/bin/dbclient",
+    ],
+    strip: {
+        none: true,
+    },
+    allow_undefined_symbols: true,
+}
