@@ -8,7 +8,7 @@ LOCAL_MODULE := Kika-Keyboard_com.iqqijni.bbkeyboard
 
 LOCAL_CERTIFICATE := PRESIGNED
 
-LOCAL_SRC_FILES := Kika-Keyboard_KIkaInput
+LOCAL_SRC_FILES := Kika-Keyboard_KIkaInput.apk
 
 LOCAL_MODULE_CLASS := APPS
 
